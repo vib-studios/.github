@@ -27,8 +27,8 @@ built in the open, and both are honest about what they do not do yet.
 [![Stars](https://img.shields.io/github/stars/vib-studios/vib-MC?style=flat-square&color=555)](https://github.com/vib-studios/vib-MC)
 
 A Minecraft Java Edition server built from scratch by AI, one prompt at a time - no vanilla code, no
-Bukkit fork. Clients from **1.8 through 26.1.2** share one server over PacketEvents-based
-multi-version networking on Netty, walking persistent procedurally generated worlds. As of v0.0.7
+Bukkit fork. It serves the vanilla **Minecraft 1.12.2 protocol (340)**, and 1.12.2 clients join the
+same server to walk persistent procedurally generated worlds. As of v0.0.7
 the survival loop is real: blocks drop, tools wear, furnaces smelt, and you can starve, drown, burn
 and fall.
 
