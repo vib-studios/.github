@@ -4,7 +4,7 @@
 
 **A Minecraft server written from scratch, and a launcher to play it with.**
 
-[![Website](https://img.shields.io/badge/vib--studios.github.io-0E0503?style=for-the-badge&logo=github&logoColor=FB794A)](https://vib-studios.github.io)
+[![Website](https://img.shields.io/badge/vibstudios.space-0E0503?style=for-the-badge&logo=github&logoColor=FB794A)](https://vibstudios.space)
 [![Licence](https://img.shields.io/badge/GPL--3.0--or--later-FB794A?style=for-the-badge&logoColor=white)](https://www.gnu.org/licenses/gpl-3.0)
 [![Vibecoded](https://img.shields.io/badge/vibecoded-ff69b4?style=for-the-badge)](https://github.com/vib-studios/vib-MC)
 
@@ -85,10 +85,10 @@ Useful if you are doing the same migration. It does not build standalone.
 | [vib-MC](https://github.com/vib-studios/vib-MC) | Minecraft Java Edition server, from scratch | Java | Playable survival, experimental |
 | [viblauncher](https://github.com/vib-studios/viblauncher) | Launcher and server control panel | C# / Avalonia | Released, Linux-first |
 | [avalonia-linux-port](https://github.com/vib-studios/avalonia-linux-port) | The launcher's Avalonia UI layer | C# / Avalonia | Reference, not standalone |
-| [vib-studios.github.io](https://github.com/vib-studios/vib-studios.github.io) | The project page | HTML | Live |
+| [vib-studios.github.io](https://github.com/vib-studios/vib-studios.github.io) | The project page, live at vibstudios.space | HTML | Live |
 
 <div align="center">
 
-**[vib-studios.github.io](https://vib-studios.github.io)**
+**[vibstudios.space](https://vibstudios.space)**
 
 </div>
